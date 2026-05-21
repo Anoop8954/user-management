@@ -1,4 +1,6 @@
 bin/
 obj/
-node_modules/
 .vs/
+*.user
+*.suo
+node_modules/
