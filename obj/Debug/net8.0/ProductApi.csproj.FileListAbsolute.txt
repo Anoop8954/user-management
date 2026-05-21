@@ -416,3 +416,6 @@ C:\cts\final\ProductApi\obj\Debug\net8.0\refint\ProductApi.dll
 C:\cts\final\ProductApi\obj\Debug\net8.0\ProductApi.pdb
 C:\cts\final\ProductApi\obj\Debug\net8.0\ProductApi.genruntimeconfig.cache
 C:\cts\final\ProductApi\obj\Debug\net8.0\ref\ProductApi.dll
+C:\cts\final\ProductApi\bin\Debug\net8.0\Npgsql.dll
+C:\cts\final\ProductApi\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\cts\final\ProductApi\obj\Debug\net8.0\ProductApi.sourcelink.json
