@@ -11,7 +11,7 @@ using ProductApi.Data;
 namespace ProductApi.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20260521071344_InitPostgres")]
+    [Migration("20260522181301_InitPostgres")]
     partial class InitPostgres
     {
         /// <inheritdoc />
